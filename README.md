@@ -9,4 +9,4 @@
 - The `index.html` file from the `output` folder has been deployed on Netlify, and the live deployment link is provided below.
 
 
-- Netlify link :    https://sunny-rolypoly-04e671.netlify.app
+- Netlify link :    https://warm-treacle-f581fd.netlify.app
